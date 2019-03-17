@@ -1,0 +1,14 @@
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\bin\Debug\netcoreapp2.1\ApiRestfulAsp.deps.json
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\bin\Debug\netcoreapp2.1\ApiRestfulAsp.runtimeconfig.json
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\bin\Debug\netcoreapp2.1\ApiRestfulAsp.runtimeconfig.dev.json
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\bin\Debug\netcoreapp2.1\ApiRestfulAsp.dll
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\bin\Debug\netcoreapp2.1\ApiRestfulAsp.pdb
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.csprojAssemblyReference.cache
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.csproj.CoreCompileInputs.cache
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.RazorAssemblyInfo.cache
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.RazorAssemblyInfo.cs
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.AssemblyInfoInputs.cache
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.AssemblyInfo.cs
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.RazorTargetAssemblyInfo.cache
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.dll
+C:\aspNet\ApiRestfulAsp\ApiRestfulAsp02\ApiRestfulAsp\obj\Debug\netcoreapp2.1\ApiRestfulAsp.pdb

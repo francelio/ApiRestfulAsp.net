@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aspNet\\ApiRestfulAsp\\ApiRestfulAsp\\ApiRestfulAsp\\ApiRestfulAsp.csproj",
+      "projectUniqueName": "C:\\aspNet\\ApiRestfulAsp\\ApiRestfulAsp02\\ApiRestfulAsp\\ApiRestfulAsp.csproj",
       "projectName": "ApiRestfulAsp",
-      "projectPath": "C:\\aspNet\\ApiRestfulAsp\\ApiRestfulAsp\\ApiRestfulAsp\\ApiRestfulAsp.csproj",
+      "projectPath": "C:\\aspNet\\ApiRestfulAsp\\ApiRestfulAsp02\\ApiRestfulAsp\\ApiRestfulAsp.csproj",
       "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
-      "outputPath": "C:\\aspNet\\ApiRestfulAsp\\ApiRestfulAsp\\ApiRestfulAsp\\obj\\",
+      "outputPath": "C:\\aspNet\\ApiRestfulAsp\\ApiRestfulAsp02\\ApiRestfulAsp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
